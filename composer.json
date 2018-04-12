@@ -1,0 +1,18 @@
+{
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "Container.php",
+      "Item.php",
+      "FillContainersAlgorithms.php"
+    ]
+  },
+  "require": {
+    "twitter/bootstrap": "^4.0"
+  }
+}
